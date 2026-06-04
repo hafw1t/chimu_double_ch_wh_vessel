@@ -1,5 +1,5 @@
 ---
-title: "Learn more"
+title: "Learn More"
 ---
 
 The chimu culture developed large scale ceramic prediction systems centered around urban sites such as Chan Chan. Archaeologists have identified evidence of mold made pottery. Which allowed pottery makers to create repeated forms and decorative patterns more quickly than if the sculptures were handmade. The standardization of these methods suggests that some vessels were widely distributed throughout the chimu society. 
