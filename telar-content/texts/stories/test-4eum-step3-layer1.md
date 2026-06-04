@@ -1,7 +1,13 @@
 ---
-title: "Learn more"
+title: "Citations"
 ---
 
-The chimu culture developed large scale ceramic prediction systems centered around urban sites such as Chan Chan. Archaeologists have identified evidence of mold made pottery. Which allowed pottery makers to create repeated forms and decorative patterns more quickly than if the sculptures were handmade. The standardization of these methods suggests that some vessels were widely distributed throughout the chimu society. 
-![DSC_0430-2](https://hafw1t.github.io/chimu_double_ch_wh_vessel/iiif/objects/dsc04302/dsc04302.jpg)
-However, not all whistling vessels were identical. Certain examples contain highly detailed imagery, complex sounds and acoustic mechanisms, or they were discovered in burial sites of the elite. These differences suggest that some whistling vessels functioned as objects of prestige that were connected to ritualistic performances or associated with the elite. The production and use of these vessels may reflect the social hierarchy of Chimu society, where both common people and elites had access to these ceramics, but the more elaborate and sound producing vessels were likely associated with higher social status and ceremonial authority.
+Content:
+Scullin, Dianne. 2026. "A Materiality of Sound: Musical Practices of the Moche of Peru - ProQuest." Proquest.com. 2026. [https://www.proquest.com/docview/1710812769?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses](https://www.proquest.com/docview/1710812769?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses).
+
+K. Stat, Daniel. 1974. "Double Chambered Whistling Bottles: A Unique Peruvian Pottery Form." The Journal of Transpersonal Psychology 6 (2): 157. [https://www.proquest.com/docview/1312112965?pq-origsite=gscholar&fromopenview=true&sourcetype=Scholarly%20Journals&imgSeq=1](https://www.proquest.com/docview/1312112965?pq-origsite=gscholar&fromopenview=true&sourcetype=Scholarly%20Journals&imgSeq=1).
+
+Photo(s):
+
+Photo 1: 
+Source: South America, Peru. 900. "South America, Peru, North Coast, Chimu." Gift of Dr. Stephen S. Goodspeed and Mrs. John Goodspeed Ainsworth. http://art-collections.museum.ucsb.edu/items/show/15778
