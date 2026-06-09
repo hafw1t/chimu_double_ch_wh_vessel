@@ -1,7 +1,13 @@
 ---
-title: "Learn More"
+title: "Citations"
 ---
 
-While many chimu whistling vessels lack detailed excavation records because they were collected decades ago or removed from their original contexts, archaeologists have identified similar vessels in tombs and burial complexes throughout the Chimu heartland on the northern coast of Peru. These burials often contained a variety of grave goods, including ceramics, textiles and metal objects, and food offerings intended to accompany the deceased into the afterlife. The presence of whistling vessels among these objects suggests they were valued for more than their practical function as containers. 
-![chimu_overhead](https://hafw1t.github.io/chimu_double_ch_wh_vessel/iiif/objects/img6918/img6918.jpg)
-In chimu society, funeral offerings frequently reflected the social status, occupation, or spiritual needs of the deceased. The vessel's elaborate design, human figures and sound producing capabilities may have given it symbolic power within burial rituals. Some scholars suggest that the whistling sound could have been associated with communication between the living and spiritual world, while others argue that such vessels served as protective and or ceremonial objects placed within tombs. Even when the exact burial location of a vessel is unknown, its artistic style and association with funeral contexts provide valuable insight into Chimu beliefs about death, remembrance and the continuation of life beyond the grave.
+Content:
+Scullin, Dianne. 2026. "A Materiality of Sound: Musical Practices of the Moche of Peru - ProQuest." Proquest.com. 2026. [https://www.proquest.com/docview/1710812769?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses](https://www.proquest.com/docview/1710812769?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses).
+
+K. Stat, Daniel. 1974. "Double Chambered Whistling Bottles: A Unique Peruvian Pottery Form." The Journal of Transpersonal Psychology 6 (2): 157. [https://www.proquest.com/docview/1312112965?pq-origsite=gscholar&fromopenview=true&sourcetype=Scholarly%20Journals&imgSeq=1](https://www.proquest.com/docview/1312112965?pq-origsite=gscholar&fromopenview=true&sourcetype=Scholarly%20Journals&imgSeq=1).
+
+Photo(s):
+
+Photo 1: 
+Source: South America, Peru. 900. "South America, Peru, North Coast, Chimu." Gift of Dr. Stephen S. Goodspeed and Mrs. John Goodspeed Ainsworth. http://art-collections.museum.ucsb.edu/items/show/15778
