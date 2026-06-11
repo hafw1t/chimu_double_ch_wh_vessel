@@ -11,4 +11,4 @@ Identities, Clay: 2022. "From Cloth to Clay: Identities and Im/Permanence in Moc
 
 Image(s):
 
-Photos 1&2; Credit @ Tanna Reed
+Photos 1&2; Credit @ Tanna Reed w/ Equiptment from AD&A

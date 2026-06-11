@@ -13,4 +13,4 @@ Photo(s):
 Photo 1:
 Wauters, Valentine. "IMPERIAL NEEDS, IMPERIAL METHODS: CHIMÚ CERAMIC MANUFACTURING PROCESS THROUGH CT SCAN ANALYSIS OF STIRRUP-SPOUT BOTTLES." *Latin American Antiquity* 27, no. 2 (2016): 238 – 56. http://www.jstor.org/stable/26337240.
 
-Photo 2: Credit @ Tanna Reed
+Photo 2: Credit @ Tanna Reed w/ Equiptment from AD&A
